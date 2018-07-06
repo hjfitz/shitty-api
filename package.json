@@ -1,0 +1,13 @@
+{
+  "name": "heroku-databases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harry Fitzgerald <fitzgerald_harry@network.lilly.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "local-env-var": "^2.0.4",
+    "redis": "^2.8.0",
+    "redis-utils-json": "^1.0.0"
+  }
+}
